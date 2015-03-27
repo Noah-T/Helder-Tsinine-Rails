@@ -15,3 +15,14 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+body {
+	background-color: #1D54A2;
+	/*position: relative;*/
+}
+
+p {
+	color: white;
+	font-size: 2em;
+	margin: 20px;
+}
