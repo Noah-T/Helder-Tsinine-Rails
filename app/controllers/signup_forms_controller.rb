@@ -1,0 +1,2 @@
+class SignupFormsController < ApplicationController
+end
